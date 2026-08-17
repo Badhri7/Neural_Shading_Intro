@@ -1,0 +1,3 @@
+# Dataset slices ship as release assets, not in the repo - they are ~18 MB each and would
+# be carried by every future clone.
+*.npz
